@@ -1,4 +1,4 @@
-savedI    Timber.tag("LifeCycles");
+    Timber.tag("LifeCycles");
     Timber.d("Activity Created");
 
     binding.hello.setOnClickListener(this)
